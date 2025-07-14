@@ -13,7 +13,7 @@
     height: 250px;
     width: 90%;
     margin-bottom: 20px;
-     margin-left: 70px;
+     margin-left: 150px;
     margin-top: 40px;
     display: flex;
     
@@ -42,7 +42,7 @@
 #full-content{
     height: 100vh;
     width: 90%;
-    margin-left: 70px;
+     margin-left: 150px;
      display: flex;
     justify-content: center;
     align-items: center;
